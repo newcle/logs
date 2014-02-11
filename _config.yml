@@ -1,3 +1,4 @@
 baseurl: /logs
+url: /logs/
 
 paginate: 10
